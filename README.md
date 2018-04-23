@@ -1,5 +1,5 @@
 # nodejs-link-preview
-a node service that will take a url as a input and give you a json response to show linke preivw like chat app show for example slack, skype ect.
+a node service that will take a url as a input and give you a json response to show linke preview like chat app show i.e. slack, skype etc.
 
 if url is a video link, then video contain embed url if its not video link then video is false,
 below is the few examples
