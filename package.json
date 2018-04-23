@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "mu92",
+  "author": "mu92 musmannadeem92@gmail.com",
   "license": "ISC",
   "dependencies": {
     "cheerio": "latest",
